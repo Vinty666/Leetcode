@@ -1,4 +1,4 @@
-class Solution {
+class AnagramMappings {
     public int[] anagramMappings(int[] A, int[] B) {
         int size = A.length;
         int[] ret = new int[size];
